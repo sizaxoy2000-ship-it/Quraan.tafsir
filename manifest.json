@@ -1,0 +1,21 @@
+{
+  "name": "Siroz Quran",
+  "short_name": "Siroz",
+  "description": "The Final Edition of Siroz Quran App",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0a0b10",
+  "theme_color": "#d4af37",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/sizaxoy2000-ship-it/Quraan.tafsir/main/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sizaxoy2000-ship-it/Quraan.tafsir/main/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
